@@ -6,3 +6,4 @@ second line entered in the remote(conflicts solution)
 second line entered in the remote(conflicts)
 checking with merge tool
 want to see the merge tool
+Remote push conflict
