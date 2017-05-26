@@ -4,5 +4,8 @@ Second line entered
 Text entered in the remote
 second line entered in the remote(conflicts solution)
 second line entered in the remote(conflicts)
+<<<<<<< HEAD
 checking with merge tool
+=======
 want to see the merge tool
+>>>>>>> 01ea29c57932ec02e936c770bc4c4a89d88a81c3
