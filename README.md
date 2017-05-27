@@ -7,3 +7,4 @@ second line entered in the remote(conflicts)
 checking with merge tool
 want to see the merge tool
 Local push conflicts
+Branch created
